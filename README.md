@@ -72,5 +72,5 @@ Why it happened:
 ****🚀 How to Reproduce****:
 1. **Install dependencies**: pip install pandas yfinance and vaderSentiment
 2. **Reddit WallStreetBets Dataset**: Download the dataset from Kaggle(https://www.kaggle.com/code/gpreda/wallstreetbets-reddit-posts-analysis)
-3. Run scripts in scripts/ in order to regenerate clean datasets
+3. Run scripts in scripts/ in order to run the code
 4. Open dashboard/gamestop_dashboard.pbix in Power BI Desktop to explore the interactive dashboard
